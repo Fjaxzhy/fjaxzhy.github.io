@@ -7,13 +7,14 @@ comments: true
 menu: 关于
 permalink: /about/
 ---
-一个专业是物联网的喜欢写程序的肥宅
 
-主要使用C# Java和C++也稍微会些
+**一个专业是物联网的喜欢写程序的肥宅
 
-最近在搞Bot和学习Python
+**主要使用C# Java和C++也稍微会些
 
-目前方向是Telegram.Bot和Mirai.Bot
+**最近在搞Bot和学习Python
+
+**目前方向是Telegram.Bot和Mirai.Bot
 
 ## 联系
 
