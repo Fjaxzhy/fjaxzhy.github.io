@@ -22,7 +22,7 @@ permalink: /about/
 <li>{{website.sitename }}：<a href="{{ website.url }}" target="_blank">@{{ website.name }}</a></li>
 {% endfor %}
 
-<!--
+
 {% if site.url contains 'mazhuang.org' %}
 <li>
 微信公众号：<br />
@@ -30,7 +30,7 @@ permalink: /about/
 </li>
 {% endif %}
 </ul>
-<!-->
+
 
 ## Skill Keywords
 
