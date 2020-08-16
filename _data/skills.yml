@@ -1,19 +1,23 @@
-- name: Software Engineer Keywords
+- name: 计算机语言
   keywords:
+      - C#
       - Java
       - C++
       - Python
-      - Design Patterns
 
-- name: Mobile Developer Keywords
+- name: 游戏
   keywords:
-      - Android
-      - Reverse Engineering
+      - Rainbow Six Siege
+      - Minecraft Java Edition
+      - CSGO
+      - GTA V
+      - PUBG
+      - Majsoul
 
-- name: Windows Developer Keywords
+- name: 活跃平台
   keywords:
-      - Win32 SDK
-      - DuiLib
-      - WTL
-      - COM
-      - WinDbg
+      - BiliBili
+      - QQ
+      - Telegram
+      - WeChat
+      - TieBa
