@@ -1,18 +1,19 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+description: 愿我们能在更开放的平行世界相遇
+keywords: 神楽弥生, KaguraYayoi, kagurayayoi, 神乐弥生
 comments: true
 menu: 关于
 permalink: /about/
 ---
+一个专业是物联网的喜欢写程序的肥宅
 
-我是马壮，码而生，码而立。
+主要使用C# Java和C++也稍微会些
 
-仰慕「优雅编码的艺术」。
+最近在搞Bot和学习Python
 
-坚信熟能生巧，努力改变人生。
+目前方向是Telegram.Bot和Mirai.Bot
 
 ## 联系
 
