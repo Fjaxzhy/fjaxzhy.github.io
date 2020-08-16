@@ -10,7 +10,7 @@ permalink: /about/
 
 **一个专业是物联网的喜欢写程序的肥宅
 
-**主要使用C# Java和C++也稍微会些
+**主要使用C#和Java,C++也稍微会些
 
 **最近在搞Bot和学习Python
 
