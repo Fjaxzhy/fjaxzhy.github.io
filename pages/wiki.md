@@ -8,6 +8,8 @@ menu: 维基
 permalink: /wiki/
 ---
 
+> 该页内容全部来源于模板 本人可能随缘更新
+
 > 记多少命令和快捷键会让脑袋爆炸呢？
 
 <ul class="listing">
