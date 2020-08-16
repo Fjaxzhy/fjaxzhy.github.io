@@ -4,10 +4,10 @@
 baseurl:
 url: http://kagurayayoi.top/
 date_format: "ordinal"
-title: kagurayayoi's blog
-subtitle: "Hope we can meet in a more open parallel world."
+title: KaguraYayoi's Blog
+subtitle: "愿我们能在更开放的平行世界相遇"
 description: "kagurayayoi's blog"
-keywords: 神楽弥生, KaguraYayoi, kagurayayoi
+keywords: 神楽弥生, KaguraYayoi, kagurayayoi, 神乐弥生
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
