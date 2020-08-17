@@ -6,6 +6,10 @@ description: 开源改变世界。
 permalink: /open-source/
 ---
 
+<script src="https://cdn.jsdelivr.net/npm/jquery/dist/jquery.min.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome/css/font-awesome.min.css"/>
+<script src="https://cdn.jsdelivr.net/gh/stevenjoezhang/live2d-widget/autoload.js"></script>
+
 {% if site.github.public_repositories != false %}
 {% assign sorted_repos = site.github.public_repositories | sort: 'stargazers_count' | reverse %}
 
