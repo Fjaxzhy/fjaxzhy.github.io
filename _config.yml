@@ -51,7 +51,7 @@ email: kagurayayoi@88.com
 navs:
   -
     href: /
-    label: 首页
+    label: 喵窝
 
   -
     href: /categories/
@@ -63,15 +63,14 @@ navs:
 
   -
     href: /open-source/
-    label: 开源
+    label: GitHubRepos
 
   -
     href: /wiki/
-    label: 维基
-
+    label: Wiki
   -
     href: /links/
-    label: 链接
+    label: 友链
 
   -
     href: /about/
