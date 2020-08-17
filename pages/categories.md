@@ -8,6 +8,10 @@ menu: 分类
 permalink: /categories/
 ---
 
+<script src="https://cdn.jsdelivr.net/npm/jquery/dist/jquery.min.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome/css/font-awesome.min.css"/>
+<script src="https://cdn.jsdelivr.net/gh/stevenjoezhang/live2d-widget/autoload.js"></script>
+
 <section class="container posts-content">
 {% assign sorted_categories = site.categories | sort %}
 {% for category in sorted_categories %}
