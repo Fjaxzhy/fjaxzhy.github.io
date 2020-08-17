@@ -128,7 +128,7 @@ gitment:
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: Fjaxzhy
-    repo: kagurayayoi.blog.chat.gitalk
+    repo: kagurayayoi.blog.comments
     clientID: aece588ebef9a43a7fa3
     clientSecret: 4bdf166a1bc17929f9d5a64b77671beb887c3f79
 # 在使用其它评论组件时可点击显示 Disqus
