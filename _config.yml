@@ -63,7 +63,7 @@ navs:
 
   -
     href: /status/
-    label: status
+    label: Status
 
   -
     href: /open-source/
