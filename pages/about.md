@@ -12,6 +12,8 @@ permalink: /about/
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome/css/font-awesome.min.css"/>
 <script src="https://cdn.jsdelivr.net/gh/stevenjoezhang/live2d-widget/autoload.js"></script>
 
+>丢人的自我介绍
+
 ##### 一个专业是物联网的喜欢写程序的肥宅
 
 ##### 主要使用C#和Java,C++也稍微会些
